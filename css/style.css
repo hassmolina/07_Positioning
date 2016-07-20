@@ -1,0 +1,25 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.caja1{
+	background-color: blue;
+	top: 0px;
+	left: 0px;
+}
+.caja2{
+	background-color: pink;
+	top:0px;
+	right: 0px;
+}
+.caja3{
+	background-color: green;
+	bottom: 0px;
+	left: 0px;
+}
+.caja4{
+	background-color: yellow;
+	bottom: 0px;
+	right: 0px;
+}
